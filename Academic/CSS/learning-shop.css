@@ -1,0 +1,33 @@
+/* header font */
+@import url("https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alkatra&display=swap");
+/* start landing */
+
+.landing h1 {
+  font-family: "Roboto", sans-serif !important;
+  font-size: 60px !important;
+}
+.landing h1::before{
+  display: none !important;
+}
+.landing .image{
+  position: relative;
+}
+.landing .image span{
+  position: absolute;
+  width: 78%;
+  height: 110%;
+  border: 5px solid;
+  border-color: transparent transparent var(--main-color) var(--main-color);
+  border-radius: 50%;
+  left: -1%;
+  top: -5%;
+  transform: rotate(-45deg);
+}
+.descriptioPhoto{
+  transform: translateX(1000px);
+}
+.description{
+  transform: translateX(-1000px);
+}
+/* end landing */
