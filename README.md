@@ -4,7 +4,7 @@ Learning Shop is an interactive e-commerce website designed to help beginners le
 
 ### Made By
 - **Mohamed Abdalrazek** (Frontend Development)
-- **Ahmed Sabry** (Firebase Integration)
+- [**Ahmed Sabry** (Firebase Integration)](https://github.com/SABRY225)
 
 ### Features
 - **Course Catalog:** Browse through a wide range of courses covering various programming topics, including HTML, CSS, JavaScript, Python, and more.
