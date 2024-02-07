@@ -1,4 +1,4 @@
-**Learning Shop: Your Gateway to Programming Fundamentals**
+# Learning Shop: Your Gateway to Programming Fundamentals
 
 Learning Shop is an interactive e-commerce website designed to help beginners learn the fundamentals of programming through engaging courses, tutorials, and resources. Whether you're new to coding or looking to expand your skills, Learning Shop offers a variety of courses covering HTML, CSS, JavaScript, and more. With a user-friendly interface and comprehensive learning materials, Learning Shop aims to make programming accessible to everyone.
 
